@@ -6,8 +6,8 @@
   "main": "bottombar",
   "nativescript": {
     "platforms": {
-      "android": "4.0.0",
-      "ios": "4.0.0"
+      "android": "6.0.0",
+      "ios": "6.0.1"
     },
     "plugin": {
       "nan": "true",
@@ -78,18 +78,18 @@
   "homepage": "https://github.com/rhanb/nativescript-bottombar",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "@angular/core": "^7.1.0",
+    "@angular/core": "^8.0.0",
     "@types/chai": "~4.1.3",
     "@types/mocha": "~5.2.1",
     "@types/node": "^7.0.5",
     "mocha": "^5.2.0",
-    "nativescript-angular": "^7.0.2",
+    "nativescript-angular": "^8.0.2",
     "nativescript-dev-appium": "^4.0.9",
     "prompt": "^1.0.0",
     "rimraf": "^2.6.2",
     "semver": "^5.6.0",
-    "tns-core-modules": "^5.0.1",
-    "tns-platform-declarations": "^5.0.0",
+    "tns-core-modules": "^6.0.1",
+    "tns-platform-declarations": "^6.0.1",
     "tslint": "^5.11.0",
     "typescript": "~2.8.2"
   },
